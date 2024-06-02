@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Talha</h1>
-<h3 align="center">A passionate cross platform mobile app developer from India</h3>
+<h3 align="center">A passionate cross platform mobile app developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talharizvi&color=0e75b6&style=flat" alt="talharizvi" /> </p>
 
