@@ -6,7 +6,6 @@
 - 💬 Ask me about **React Native, Cross Platform Mobile App Developement, React.js, Android**
 
 - 📫 How to reach me **talharizvi480@gmail.com**
-- 💼 I’m currently working as a Senior Software Engineer at Opcito.
 - 📋 I've previously worked as SDE-2 at MpoweredHealth.
 - 🧭 I love exploring and working both in cross platform mobile and frontend web.
 
